@@ -23,4 +23,4 @@ int main(int argc, char *argv[])
 	printf("%d\n", R);
 
 	return (0);
-
+}
